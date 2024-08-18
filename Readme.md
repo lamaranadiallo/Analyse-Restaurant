@@ -113,14 +113,6 @@ L'évolution de notre approche de modélisation, du plus simple au plus complexe
 - Scikit-learn pour le modèle Random Forest
 - Statsmodels pour l'analyse de séries temporelles et ARIMA
 
-## Installation et Exécution
-```bash
-git clone [URL_DU_REPO]
-cd [NOM_DU_REPO]
-pip install -r requirements.txt
-jupyter notebook Restaurant_Data_Analysis.ipynb
-```
-
 ## Perspectives Futures
 - Intégration de données externes (météo, événements locaux)
 - Développement d'un dashboard interactif pour le suivi en temps réel
