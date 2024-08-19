@@ -1,3 +1,5 @@
 env/
 *.csv
+Data/
+App.py
 Restaurant Orders.txt
