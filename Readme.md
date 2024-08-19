@@ -10,8 +10,7 @@
 7. [Modélisation](#modélisation)
 8. [Conclusions et Recommandations](#conclusions-et-recommandations)
 9. [Technologies Utilisées](#technologies-utilisées)
-10. [Installation et Exécution](#installation-et-exécution)
-11. [Perspectives Futures](#perspectives-futures)
+10. [Perspectives Futures](#perspectives-futures)
 
 ## Introduction
 Ce projet analyse en profondeur les données opérationnelles d'un restaurant sur une période de trois mois. L'objectif est de fournir des insights actionnables pour optimiser les opérations, améliorer l'efficacité et potentiellement augmenter les revenus.
